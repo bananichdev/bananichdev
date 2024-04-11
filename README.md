@@ -6,7 +6,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=bananichdev">
 </div>
 
-<h3 align="left">👩‍💻 Обо мне:</h3>
+<h3 align="left">👨‍💻 Обо мне:</h3>
 
 <p align="left"></p>
 
