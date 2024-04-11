@@ -1,4 +1,13 @@
-### Hi there 👋
+
+
+<h1 align="center">Привет 👋 Меня зовут Дмитрий!</h1>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=bananichdev">
+</div>
+
+https://visitor-badge.laobi.icu/badge?page_id=bananichdev
+
 
 <!--
 **bananichdev/bananichdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
