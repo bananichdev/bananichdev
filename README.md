@@ -13,16 +13,15 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
+  <img width="12" />
+  
   <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
   <img width="12" />
-  
-  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
-  <img width="12" />
-
   
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
   <img width="12" />
@@ -32,6 +31,8 @@
   <img width="12" />
 
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
   <img width="12" />
