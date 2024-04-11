@@ -29,8 +29,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo"  />
   <img width="12" />
 
