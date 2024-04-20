@@ -1,7 +1,7 @@
 <h1 align="center">Привет 👋 Меня зовут Дмитрий!</h1>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=bananichdev">
+  <img src="https://hits.dwyl.com/bananichdev/bananichdev.svg?style=flat-square">
 </div>
 
 <h3 align="left">👨‍💻 Обо мне:</h3>
